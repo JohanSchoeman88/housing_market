@@ -1,0 +1,12 @@
+year,district_name,school_name,subject,grade,student_group,valid_tests,pct_below,pct_basic_or_approaching,pct_proficient_or_on_track,pct_advanced_or_mastered,pct_combined_score
+2012,Anderson County,Anderson County High School,Algebra I,10,All,51,41.2,37.3,19.6,2,21.6
+2013,Anderson County,Anderson County High School,Algebra I,All Grades,All Students,257,,,,,
+2014,Anderson County,Anderson County High School,Algebra I,All Grades,All Students,225,,,,,
+2015,Anderson County,Anderson County High School,Algebra I,All Grades,All Students,224,,,,,
+2016,Anderson County,Anderson County High School,Algebra I,9th through 12th,All Students,,,,,,
+2017,,Anderson County High School,Algebra I,10,All Students,50,**,**,**,**,**
+2018,Anderson County,Anderson County High School,Algebra I,10,All Students,43.0,**,**,**,**,**
+2019,Anderson County,Anderson County High School,Algebra I,10,All Students,61,**,**,**,**,**
+2022,Anderson County,Anderson County High School,Algebra I,10,All Students,40,**,**,**,**,**
+2023,Anderson County,Anderson County High School,Algebra I,10,All Students,24,**,**,**,**,**
+2024,Anderson County,Anderson County High School,Algebra I,10,All Students,2,*,*,*,*,*
