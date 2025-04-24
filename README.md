@@ -1,5 +1,7 @@
   ## Davidson County redfin/school/crime data
 
+  ## PowerBI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiN2JiM2U3YzctYzY2Ny00NGZiLTliMzUtYWMxYTY0YTFmOGZiIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=418814ebfacf7ca22bab
+
 1. Executive Summary
 I want to explore the intersection between public education, housing affordability, and community safety in Nashville. Using ZIP-level data from 2012–2024, the goal is to uncover how school performance, housing prices, and crime rates interact — and how those dynamics have changed over time. The final product will be a Power BI 
 dashboard that lets users explore trends and relationships across neighborhoods.
@@ -34,7 +36,7 @@ Source: TN Department of Education (tn.gov)
 Source: Metro Nashville Police Open Data Portal (data.nashville.gov)
 
     Housing Data
-Source: Redfin ZIP Code Tracker (web-scraped + filtered), (www.redfin.com)
+Source: Redfin ZIP Code level Csv, filtered, (www.redfin.com)
 
     ZIP Code Reference
 Source: data.gov
